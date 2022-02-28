@@ -12,14 +12,7 @@ import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ButtonGroup from '@mui/material/ButtonGroup';
 
 
-const bull = (
-  <Box
-    component="span"
-    sx={{ display: 'inline-block', mx: '2px', transform: 'scale(0.8)' }}
-  >
-    •
-  </Box>
-);
+
 
 const card = (
 
