@@ -1,3 +1,5 @@
+
+@media only screen and (min-width: 300px) {
 .btn{
   display: flex;
   gap: 20px;
@@ -262,6 +264,7 @@ margin-left:100px;
 }
 .tabcolor{
   background-color: white;
+  height:70px;
 }
 .searchbutton{
   margin-left:18%;
@@ -275,4 +278,5 @@ margin-left:100px;
 .title{
   display: flex;
   justify-content: center;
+}
 }
